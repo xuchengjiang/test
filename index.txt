@@ -1,1 +1,3 @@
-接发的是放假了打开手机费考拉多少就放了大师傅的说法了空间的萨芬垃圾ADSL就发生下次vs都奇偶奇偶奇偶
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
